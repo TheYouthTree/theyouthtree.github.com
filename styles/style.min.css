@@ -1025,7 +1025,7 @@ ul.icons-ul{list-style-type:none;text-indent:-0.7142857142857143em;margin-left:2
 .row-fluid{padding-top:30px;padding-bottom:30px;}
 .inner-page{max-width:1100px;margin:0 auto;}
 .newsletter,footer{padding:0!important;margin:0!important;}
-.figurette{margin-top:100px;}
+.figurette{margin-top:10px;}
 .lazy-container{text-align:center;min-height:400px;}
 .spinner{padding-top:200px;}
 [class*="span"]{padding:0 30px;}
